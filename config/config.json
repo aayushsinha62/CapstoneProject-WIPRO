@@ -1,0 +1,6 @@
+{
+  "base_url": "https://phptravels.net/flights",
+  "browser": "firefox",
+  "implicit_wait": 10,
+  "explicit_wait": 20
+}
